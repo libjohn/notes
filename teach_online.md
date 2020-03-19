@@ -21,7 +21,7 @@ What are the small changes we can make
     - attention spans limited with pandemic induced distractions
     - "what kind of device are you on" "how much time do you have"
 
-3. **Don't need polished produced courseware/webinar.  Right now**, the best bet it to try and use things interactively.  Worry about video editing later.  If you    doi.org/10. 1145    "pattern language for screecasting"    chen and Rabb
+3. **Don't need polished produced courseware/webinar.  Right now**, the best bet it to try and use things interactively.  Worry about video editing later.  <br>   _A pattern language for screencasting_.  by Chen and Rabb. https://doi.org/10.1145/1943226.1943234
 4. **Mistakes of the pedagogy**
     - novice programmer:  spend 80% of their time debugging
     - profesisonal:  20-40% debugging  (that's experience)
