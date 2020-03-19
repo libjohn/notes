@@ -7,6 +7,8 @@
     - [Supporting article by Greg Wilson](https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/)
 
 
+###### tags: `rstudio` `webinar` `wilson` `teaching` `online`
+
 Moving your teaching online with Greg Wilson
 
 1. **Don't change what you don't have to**  (Take a long walk in old shoes)
