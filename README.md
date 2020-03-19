@@ -1,2 +1,0 @@
-# notes
-hackMD markdown notes
