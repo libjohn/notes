@@ -2,10 +2,9 @@
 
 2020 03 19
 
-An [RStudio webinar](https://rstudio.com/resources/webinars/)
-
-[slides for this presentation](https://rstd.io/teach-online-2020)
-[Supporting article by Greg Wilson](https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/)
+- An [RStudio webinar](https://rstudio.com/resources/webinars/)
+    - [Wilson's slides for this presentation](https://rstd.io/teach-online-2020)
+    - [Supporting article by Greg Wilson](https://education.rstudio.com/blog/2020/03/teaching-online-on-short-notice/)
 
 
 Moving your teaching online with Greg Wilson
