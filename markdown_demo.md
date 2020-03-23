@@ -10,20 +10,20 @@ date:  "Mar 20, 2020"
 ###### tags: `test` `hello world`
 
 > This is a note.  See (to the right) how the note appears as a highlight?  You can use the `>` markup your any text.
->  Add your own text.  
+>  Add your own text. 
 
 ##  Second level header
 
 For more Markdown help see
 1. Help > Markdown quick reference
-2. Help > Cheatsheets > R Markdown cheat sheets
-3. [R Markdown](http://rmarkdown.rstudio.com) Notebooks
+1. Help > Cheatsheets > R Markdown cheat sheets
+1. [R Markdown](http://rmarkdown.rstudio.com) Notebooks
 
 ### Step 1: Change the title and add a tag
 
 Favorite fruits
 - orange
-    - nectarine       
+    - nectarine 
 - apple
 - grape
 
@@ -43,7 +43,7 @@ Write something else in this basic paragraph
 - [ ] *Italic*
 - [ ] Super^script^
 - [ ] Sub~script~
-- [ ] ~~Crossed~~
+- [ ] ~~Strikethrough~~
 
 
 ![](http://library.duke.edu/digitalcollections/media/jpg/ua_exhibit/med/bostocklibrary.jpg)
