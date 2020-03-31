@@ -39,7 +39,7 @@ Group page:https://www.rd-alliance.org/groups/libraries-research-data.html
             - big data storage
             - cloudStor
             - CAUL council for Austrailian University Libraries
-        - digital dexterity
+        - **digital dexterity**
             - cognitive ability and social practice needed to lveaage and employ various types of media, information, and technology for advantage in unique and highly innovative ways that optimize personal and business value
                 - Each Library names a "Digital Dexterity Champion"
                     - #MyDigiDex  (twitter twitching):  advocate, collaborate, connect, engage, etc.
@@ -54,9 +54,32 @@ Group page:https://www.rd-alliance.org/groups/libraries-research-data.html
         - [slides](https://cloudstor.aarnet.edu.au/plus/s/uuQVsnyE9UMbUvh)
         - sending staff off to short courses did not achieve the transformations they had hopeed
         - local data school was emersive.  five months.  face to face.  open to any staff
-        - unix, regex, R , tidyverses, visualiztion ....
-        - scaled the school:  sponsors,
-        - results:  data school focus (10 weeks ; 2 days per week), centered around R 
+        - **data school original** (5 monhts; immersive ; 4 days/week/ f2f)
+            - unix, regex, R , tidyverses, visualiztion ....
+            - scaled the school:  sponsors,
+            - Curriculuum
+                - Unix shell / regular expressions ;
+                    R / Tidyverse / visualisation ;
+                    Python ;
+                    Git ;
+                    High Performance Computing ;
+                    Data management ;
+                    SQL ;
+                    Statistics ;
+                    Machine learning / networks
+        - data school **focus** (10 weeks ; 2 days per week), centered around R
+            -  curriculum:  
+                -  R / Tidyverse / visualisation ;
+                    Git for version control ;
+                    Data management ;
+                    Statistics 
+        - data school ignition (1 day ; f2f ; hands-on)
+            - curriculum:  
+                - Benchmarking team’s digital practices ;
+                    Mapping data flows through project ;
+                    Foundational digital skillsets ;
+                    Identifying needs/gaps in data map ;
+                    Action plan
         - alumni are putting reproducible techniques into practice
         - data school ignition (1 day; face-to-face) foundational skills
         - https://csiro-data-school.github.io/FOCUS2_Final/
